@@ -1,6 +1,6 @@
 Porjeto de web service.
 
-1 - Aplicação web de cadastro de contatos dos voluntários da ONG VIDAS PET </br>
+1 - Aplicação web de cadastro dos voluntários da ONG VIDAS PET </br>
 
 * Aplicação criada com HTML, CSS, Flesk e Mongo DB.</br>
  --> Font End: HTML, CSS</br>
@@ -23,7 +23,7 @@ Porjeto de web service.
 * Tela de Edição de Amigo - WEB:</br>
 ![Tela edição do WEB](WEB_SERVICE/img_readme/tela_edicao_web.png)</br>
 
-* Boatão de Exclusão - WEB:</br>
+* Botão de Exclusão - WEB:</br>
 ![Botão de exclusão de amigo WEB](WEB_SERVICE/img_readme/btn_excluir_web.png)</br>
 
 
@@ -35,7 +35,7 @@ Porjeto de web service.
 --> Logica/Back-end: Python</br>
 --> Banco de dados: MongoDB (utilizando a biblioteca pymongo)</br></br>
 
-* Para executar o aplicativo, gentileza acessar o caminho:</br>
+* Para executar o aplicativo, por gentileza acessar o caminho:</br>
 --> /0 - APP/APP_EXE e executar o aplicativo N703_APP.exe</br></br>
 
 * Tela de Login - APP:</br>
@@ -50,7 +50,7 @@ Porjeto de web service.
 * Tela de Edição de Amigo - APP:</br>
 ![Tela edição do APP](WEB_SERVICE/img_readme/tela_edicao_app.png)</br>
 
-* Boatão de Exclusão - APP</br>
+* Botão de Exclusão - APP</br>
 ![Botão de exclusão de amigo APP](WEB_SERVICE/img_readme/botao_exclusao_app.png)</br></br></br>
 
 
